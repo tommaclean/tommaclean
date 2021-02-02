@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi, I'm Tom MacLean 
 
-<!--
-**tommaclean/tommaclean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> I started my career in audio engineering. In 2019 I decided I wanted to make a career change and found coding exciting and challenging. After attending Flatiron School and seeing my final fullstack application deployed, I've been building upon what I learned to grow while searching for my first job in tech.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Projects
+- [MeetInTheMiddle](https://github.com/tommaclean/meet-in-the-middle-v2) - Allows three users to input their addresses and receive location recommendations from the Google Maps API based on their midpoint.
+- [GenreFluid](https://github.com/tommaclean/GenreFluid) - A social music app to search through the Spotify API, create the playlists to accompany all your moods and share those with other users.
+- [CyclistCount](https://github.com/tommaclean/cyclist-count) - A visualization of the bicycle count on the East River bridges between April-October 2017 using NYC Open Data.
+
+#### Connect with Me
+- [Linkedin](https://www.linkedin.com/in/tom-maclean/)
+- [Portfolio](https://tom-maclean.weebly.com/)
