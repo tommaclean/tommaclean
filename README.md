@@ -8,6 +8,9 @@
 - [GenreFluid](https://github.com/tommaclean/GenreFluid) - A social music app to search through the Spotify API, create playlists, and share those with other users.
 - [CyclistCount](https://github.com/tommaclean/cyclist-count) - A visualization of the bicycle count on the East River bridges between April-October 2017 using NYC Open Data.
 
+#### Non-Projects
+- [CodeWars Problems](https://github.com/tommaclean/code-wars-problems) - Posting my daily CodeWars problems I'm working through
+
 #### Connect with Me
 - [Linkedin](https://www.linkedin.com/in/tom-maclean/)
 - [Portfolio](https://tom-maclean.weebly.com/)
